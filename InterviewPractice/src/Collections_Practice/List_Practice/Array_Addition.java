@@ -8,6 +8,7 @@ public class Array_Addition {
 		int[] i = {10,20,30,40};
 		int[] j = {10,20,40,50,60};
 		int[] result;
+		int x1;
 		// with turnery operator
 		int max = Math.max(i.length, j.length);
 		result = new int[max];
